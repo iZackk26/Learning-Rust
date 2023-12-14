@@ -11,7 +11,7 @@
                                     
 
 ```
-
+![Rust Logo](./Rust-Icon.png)
 # Learning
 
 I chose this language because it is a compiled language that facilitates
