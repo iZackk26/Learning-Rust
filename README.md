@@ -12,7 +12,7 @@
 
 ```
 <p align="center">
-  <img src="./Rust-Icon.png" alt="Rust Logo" style="background-color: transparent;" width="200"/>
+  <img src="./Rust.png" alt="Rust Logo" style="background-color: transparent;" width="200"/>
 </p>
 
 # Learning
