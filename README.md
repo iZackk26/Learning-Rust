@@ -11,7 +11,7 @@
                                     
 
 ```
-![Rust Logo](./Rust-Icon.png)
+<img src="./Rust-Icon.png" alt="Rust Logo" width="100">
 # Learning
 
 I chose this language because it is a compiled language that facilitates
