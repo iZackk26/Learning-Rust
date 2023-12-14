@@ -11,7 +11,10 @@
                                     
 
 ```
-<img src="./Rust-Icon.png" alt="Rust Logo" width="100">
+<p align="center">
+  <img src="./Rust-Icon.png" alt="Rust Logo" style="background-color: transparent;" width="200"/>
+</p>
+
 # Learning
 
 I chose this language because it is a compiled language that facilitates
